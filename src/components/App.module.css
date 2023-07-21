@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+
+  width: 600px;
+  height: 400px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 50px;
+
+  background-color: rgb(135, 135, 233);
+  color: #021415;
+
+  border-radius: 40px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px,
+    rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px,
+    rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}

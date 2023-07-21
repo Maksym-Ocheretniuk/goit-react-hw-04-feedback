@@ -1,0 +1,8 @@
+.notificationWrapper {
+  margin: 0 auto;
+}
+.notification {
+  font-size: 22px;
+  color: #f2380a;
+  text-decoration-line: underline;
+}
